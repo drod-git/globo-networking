@@ -16,7 +16,7 @@ variable "prefix" {
 
 variable "environment" {
   type        = string
-  description = "(Optional) Environment for all resources"
+  description = "(Optional) Environment for all resources."
   default     = "development"
 }
 
